@@ -24,6 +24,9 @@ GET https://www.google.com/search?q=curl&oq=curl&sourceid=chrome&ie=UTF-8 HTTP/1
 <pre>
 httpflow.sh searchCurl.hfd
 </pre>
+
+[[설치 가이드] (클릭)](https://github.com/soungminjoo/httpflow-console#%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95)
+
 <br/><br/>
 <h1>2개이상의 request에 flow 적용하기</h1>
 2개 이상의 request는 element 구분자 키워드(---)를 이용하여 하나의 .hfd 파일에 작성할 수 있으며,<br/>
